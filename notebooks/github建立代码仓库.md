@@ -38,6 +38,27 @@ sudo apt install git
 git clone https的网址
 ```
 
+```shell
+git status
+```
+
+```shell
+git add .
+```
+
+```shell
+git commit -m "更新详述"
+```
+
+```shell
+git pull
+```
+
+```shell
+git push
+```
+
+
 
 
 
